@@ -1,0 +1,29 @@
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 15, 2024 - 00:01:18
+Django version 4.2.11, using settings 'URLapp.settings'
+Starting development server at http://127.0.0.1:8700/
+Quit the server with CONTROL-C.
+
+[15/Mar/2024 00:01:39] "GET /create/ HTTP/1.1" 200 2672
+[15/Mar/2024 00:01:48] "GET / HTTP/1.1" 200 2360
+[15/Mar/2024 00:01:50] "GET /create/ HTTP/1.1" 200 2672
+[15/Mar/2024 00:01:57] "POST /create/ HTTP/1.1" 200 27
+[15/Mar/2024 00:01:57] "GET /favicon.ico HTTP/1.1" 200 27
+[15/Mar/2024 00:01:58] "GET /create/ HTTP/1.1" 200 2672
+[15/Mar/2024 00:02:00] "POST /create/ HTTP/1.1" 200 27
+[15/Mar/2024 00:02:01] "GET /favicon.ico HTTP/1.1" 200 27
+[15/Mar/2024 00:02:03] "GET /create/ HTTP/1.1" 200 2672
+[15/Mar/2024 00:02:05] "POST /create/ HTTP/1.1" 200 2292
+Watching for file changes with StatReloader
+Performing system checks...
+
+System check identified no issues (0 silenced).
+March 15, 2024 - 00:08:15
+Django version 4.2.11, using settings 'URLapp.settings'
+Starting development server at http://127.0.0.1:8700/
+Quit the server with CONTROL-C.
+
+[15/Mar/2024 00:08:20] "GET / HTTP/1.1" 200 2360
